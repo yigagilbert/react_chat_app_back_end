@@ -1,6 +1,6 @@
 # Chat Platform API
 
-This is the backend for the [Chat Platform React](https://github.com/stuyy/chat-platform-react) project.
+This is the backend for the [Chat Platform React](https://github.com/yigagilbert/the_react_chat_app_front_end) project.
 
 # Installation & Setup
 
@@ -38,4 +38,3 @@ This is the backend for the [Chat Platform React](https://github.com/stuyy/chat-
 
 4. Run `yarn start:dev` or `npm run start:dev` depending on which package manager you use to start the project in development mode.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
